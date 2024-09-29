@@ -1,16 +1,23 @@
-import './App.css';
-import Header from './components/Header/Header'
+import "./App.css";
+import Header from "./components/Header/Header";
+import Set from "./components/Set/Set";
+import Forms from "./components/Forms/Forms";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Header/>
+        <Header />
       </header>
-      <body className='App-body'>
-      </body>
-      <footer className='App-footer'>
-      </footer>
+      <main>
+        <body className="App-body">
+          <Set />
+        </body>
+        <section className='App-forms'>
+          <Forms />
+        </section>
+      </main>
+      <footer className="App-footer"></footer>
     </div>
   );
 }
