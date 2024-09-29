@@ -4,7 +4,7 @@ const Button = ({ text, onClickText, ...props }) => {
   return (
     <div className="containerButton">
       <button
-        name="button-input"
+        className="button-input"
         type={props.type}
         onClick={(event) => {
           event.preventDefault(); alert(onClickText);

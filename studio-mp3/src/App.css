@@ -1,8 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap");
 
-.App{
+.App {
   font-family: "Fredoka", sans-serif;
 }
-.App-header, .App-body{
+.App-header {
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-forms {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

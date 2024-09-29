@@ -9,7 +9,13 @@ const Forms = () => {
         <FormsInput inputName="Nome" id="nome" type="text" />
         <FormsInput inputName="Email" id="email" type="email" />
         <FormsInput inputName="Feedback" id="feedback" type="text" />
-        <Button text="Enviar" type="submit" onClickText='Feedback enviado com sucesso.'/>
+        <div className="botaoForms">
+          <Button
+            text="Enviar"
+            type="submit"
+            onClickText="Feedback enviado com sucesso."
+          />
+        </div>
       </form>
     </div>
   );

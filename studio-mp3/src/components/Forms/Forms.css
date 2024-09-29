@@ -21,3 +21,8 @@
 #nome, #email, #feedback{
   margin: 4px;
 }
+
+.botaoForms{
+  height: 100%;
+  width: 60%;
+}

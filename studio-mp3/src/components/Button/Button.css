@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+.button-input {
+  background-color: lightskyblue;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 8px 16px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 15px;
+  font-family: "Fredoka", sans-serif;
+  outline: none;
+}
+
+.button-input:hover {
+  background-color: lightseagreen;
+  transform: scale(1.1);
+}

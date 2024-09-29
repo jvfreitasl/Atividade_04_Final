@@ -2,6 +2,7 @@ import "./App.css";
 import Header from "./components/Header/Header";
 import Set from "./components/Set/Set";
 import Forms from "./components/Forms/Forms";
+import Navegador from "./components/Navegador/Navegador";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         </body>
         <section className='App-forms'>
           <Forms />
+          <Navegador/>
         </section>
       </main>
       <footer className="App-footer"></footer>
