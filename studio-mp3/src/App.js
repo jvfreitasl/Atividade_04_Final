@@ -3,6 +3,7 @@ import Header from "./components/Header/Header";
 import Set from "./components/Set/Set";
 import Forms from "./components/Forms/Forms";
 import Navegador from "./components/Navegador/Navegador";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -19,7 +20,9 @@ function App() {
           <Navegador/>
         </section>
       </main>
-      <footer className="App-footer"></footer>
+      <footer className="App-footer">
+        <Footer/>
+      </footer>
     </div>
   );
 }
