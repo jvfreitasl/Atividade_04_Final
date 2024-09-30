@@ -1,8 +1,44 @@
-.containerSet{
+.containerSet {
   height: 60vh;
   width: 93vw;
   background-color: lightblue;
   border: 3px solid black;
   border-radius: 20px;
   margin: 0.5vw;
+}
+
+.secSet {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.listMusics {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.listMusics li {
+  width: 32%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
+.listMusics li img {
+  width: 20%;
+  height: 10%;
+}
+
+.form{
+  margin: 10px;
 }

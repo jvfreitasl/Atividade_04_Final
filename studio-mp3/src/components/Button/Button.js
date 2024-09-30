@@ -1,13 +1,14 @@
 import "./Button.css";
 
-const Button = ({ text, onClickText, ...props }) => {
+const Button = ({ text, onClick, ...props }) => {
   return (
     <div className="containerButton">
       <button
         className="button-input"
         type={props.type}
         onClick={(event) => {
-          event.preventDefault(); alert(onClickText);
+          event.preventDefault(); 
+          onClick()
         }}>
           {text}
           </button>

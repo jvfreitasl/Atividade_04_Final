@@ -15,13 +15,13 @@ function App() {
         <body className="App-body">
           <Set />
         </body>
-        <section className='App-forms'>
+        <section className="App-forms">
           <Forms />
-          <Navegador/>
+          <Navegador />
         </section>
       </main>
       <footer className="App-footer">
-        <Footer/>
+        <Footer />
       </footer>
     </div>
   );
