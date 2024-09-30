@@ -8,13 +8,6 @@
       "banda": "Avenged Sevenfold"
     },
     {
-      "id": "5ab9",
-      "nome": "Minha Ultima Letra",
-      "capa": "https://i.ytimg.com/vi/gt6avb8vgMM/maxresdefault.jpg",
-      "anoLancamento": "2018",
-      "banda": "Cesar Mc"
-    },
-    {
       "id": "8d8f",
       "nome": "1993",
       "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/42/Capa_do_%C3%A1lbum_333.jpeg/220px-Capa_do_%C3%A1lbum_333.jpeg",
@@ -27,6 +20,13 @@
       "capa": "https://i1.sndcdn.com/artworks-Pvn1EU1S0TRSUz62-iHPdJA-t500x500.jpg",
       "anoLancamento": "2024",
       "banda": "Grelo"
+    },
+    {
+      "id": "1c93",
+      "nome": "Maçã verde",
+      "capa": "https://cdns-images.dzcdn.net/images/cover/6c7509cab8ebec9dd1a28a847a3f797a/1900x1900-000000-80-0-0.jpg",
+      "anoLancamento": "2020",
+      "banda": "Mc Hariel"
     }
   ]
 }

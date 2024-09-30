@@ -7,6 +7,8 @@ import Music from "../Music/Music";
 const Set = () => {
   const [music, setMusics] = useState([]);
   useEffect(() => {
+    //useEffect controla o ciclo de vida da aplicação, primeiro parâmetro é uma função no qual deseja que ele execute.
+    //O segundo parâmentro é para caso haja alguma mudança na aplicação, é uma variável de estado, seja qual for a mudança, ele irá chamar novamente a função.
     getMusic();
   }, []);
 
