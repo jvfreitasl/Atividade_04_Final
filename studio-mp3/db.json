@@ -4,15 +4,29 @@
       "id": "0",
       "nome": "Hail to the King",
       "capa": "https://upload.wikimedia.org/wikipedia/pt/1/19/Hail-to-the-king-capa.jpg",
-      "anoLancamento": "23 de agosto de 2013",
+      "anoLancamento": "2013",
       "banda": "Avenged Sevenfold"
     },
     {
       "id": "5ab9",
       "nome": "Minha Ultima Letra",
       "capa": "https://i.ytimg.com/vi/gt6avb8vgMM/maxresdefault.jpg",
-      "anoLancamento": "12 de nov. de 2018",
+      "anoLancamento": "2018",
       "banda": "Cesar Mc"
+    },
+    {
+      "id": "8d8f",
+      "nome": "1993",
+      "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/42/Capa_do_%C3%A1lbum_333.jpeg/220px-Capa_do_%C3%A1lbum_333.jpeg",
+      "anoLancamento": "2024",
+      "banda": "Matuê"
+    },
+    {
+      "id": "1576",
+      "nome": "Só fé",
+      "capa": "https://i1.sndcdn.com/artworks-Pvn1EU1S0TRSUz62-iHPdJA-t500x500.jpg",
+      "anoLancamento": "2024",
+      "banda": "Grelo"
     }
   ]
 }

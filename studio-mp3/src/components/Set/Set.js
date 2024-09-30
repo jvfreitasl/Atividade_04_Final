@@ -55,8 +55,8 @@ const Set = () => {
   return (
     <div className="containerSet">
       <section className="secSet">
-        <h2>Cadastre sua música favorita:</h2>
         <form className="form">
+          <h2>Cadastre sua música favorita:</h2>
           <FormsInput
             inputName="Nome"
             id="nome"
